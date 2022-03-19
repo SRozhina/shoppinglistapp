@@ -23,4 +23,4 @@ App features:
 
 
 
-[App Privacy Notice](https://srozhina.github.io/shoppinglistapp/privacy)
+[App Privacy Notice](https://t.me/shoppinglistappsupport)
