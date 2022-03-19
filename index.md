@@ -20,3 +20,7 @@ App features:
 [Telegram](https://t.me/shoppinglistappsupport)
 
 **Email:** shoppinglistapp.help.io@gmail.com
+
+
+
+[App Privacy Notice](https://srozhina.github.io/shoppinglistapp/privacy)
